@@ -1,0 +1,51 @@
+[03:05:07] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:05:07] [ServerMain/WARN]: Missing data pack file/bukkit
+[03:05:10] [ServerMain/INFO]: Loaded 1290 recipes
+[03:05:10] [ServerMain/INFO]: Loaded 1399 advancements
+[03:05:10] [Server thread/INFO]: Starting minecraft server version 1.21
+[03:05:10] [Server thread/INFO]: Loading properties
+[03:05:10] [Server thread/INFO]: Default game type: SURVIVAL
+[03:05:10] [Server thread/INFO]: Generating keypair
+[03:05:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:05:11] [Server thread/INFO]: Using epoll channel type
+[03:05:11] [Server thread/INFO]: Preparing level "world"
+[03:05:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:05:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:05:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:05:19] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:05:19] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:05:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:05:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:05:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:05:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:05:22] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:05:22] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:05:23] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:05:23] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:05:24] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:05:24] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:05:25] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:05:25] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:05:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:05:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:05:27] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:05:27] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:05:28] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:05:28] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:05:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:05:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:05:30] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:05:30] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:05:31] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:05:31] [Worker-Main-3/INFO]: Preparing spawn area: 10%
+[03:05:32] [Worker-Main-3/INFO]: Preparing spawn area: 53%
+[03:05:32] [Server thread/INFO]: Time elapsed: 14218 ms
+[03:05:32] [Server thread/INFO]: Done (20.984s)! For help, type "help"
+[03:06:02] [User Authenticator #1/INFO]: UUID of player optimusgamer20 is 920b1c18-9eae-4817-91a1-3fe7622c6e25
+[03:06:04] [Server thread/INFO]: optimusgamer20[/[0:0:0:0:0:0:0:1%0]:57618] logged in with entity id 3 at (-9.5, 69.0, 5.5)
+[03:06:04] [Server thread/INFO]: optimusgamer20 joined the game
+[03:06:58] [Server thread/INFO]: optimusgamer20 was impaled on a stalagmite
+[03:07:31] [Server thread/INFO]: optimusgamer20 was impaled on a stalagmite while fighting Zombie Villager
+[03:08:19] [Server thread/INFO]: optimusgamer20 lost connection: Timed out
+[03:08:19] [Server thread/INFO]: optimusgamer20 left the game
+[03:08:19] [Server thread/WARN]: handleDisconnection() called twice
